@@ -14,7 +14,7 @@
   author: [DRY],
   date: datetime.today(),
   institution: [School of Computer Science and Technology, USTC],
-  logo: image("./assets/img/USTC.svg", width: 50%),
+  logo: image("./assets/img/title.svg", width: 70%),
   github: []
 )
 
