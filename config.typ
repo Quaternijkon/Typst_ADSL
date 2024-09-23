@@ -9,11 +9,13 @@
 
 #let s = (s.methods.info)(
   self: s,
+  //第二步
+  //在这里修改你的封面信息
   title: [Typst template for School of Computer Science and Technology, USTC],
   subtitle: [Continuously Improving...],
-  author: [DRY],
+  author: [Quaternijkon],
   date: datetime.today(),
-  institution: [School of Computer Science and Technology, USTC],
+  institution: [ADSLAB, USTC],
   logo: image("./assets/img/title.svg", width: 70%),
   github: []
 )
